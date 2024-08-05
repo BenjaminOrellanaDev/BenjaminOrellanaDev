@@ -1,5 +1,8 @@
 # 💫 About Me:
-¡Hola! Soy Benjamin Orellana, un apasionado programador de 21 años de Tucumán, Argentina. Desde temprana edad, he estado inmerso en el mundo del desarrollo de software, y mi entusiasmo por aprender y sobresalir en este campo solo ha crecido con el tiempo.<br><br>Tengo experiencia trabajando con diversas tecnologías, incluyendo React, Node.js, SQL, C#, y más. Mi enfoque es siempre encontrar soluciones innovadoras y eficientes para los problemas que enfrento, y disfruto cada desafío que se presenta en mi camino.<br><br>Como CEO y fundador de Soft Fusion, he liderado más de 15 proyectos exitosos y he trabajado con un equipo increíble de más de 10 personas. Además, he impartido clases de programación a más de 120 alumnos universitarios, lo que me ha permitido compartir mi conocimiento y aprender de la nueva generación de desarrolladores.<br><br>Estoy buscando unirme a un equipo de trabajo excepcional donde pueda continuar creciendo profesionalmente y contribuir con mis habilidades y entusiasmo. Mi objetivo es participar en muchos proyectos interesantes y seguir expandiendo mis conocimientos en el desarrollo de software.<br><br>Si buscas un programador joven, dinámico y con muchas ganas de aprender y aportar, ¡no dudes en contactarme!
+¡Hola! Soy Benjamin Orellana, un apasionado programador de 21 años de Tucumán, Argentina. Desde temprana edad, he estado inmerso en el mundo de la tecnología y el desarrollo de software, mi entusiasmo por aprender y sobresalir en este campo solo ha crecido con el tiempo.<br><br>Tengo experiencia trabajando con diversas tecnologías, incluyendo React, Node.js, SQL, C#, y más. Mi enfoque es siempre encontrar soluciones innovadoras y eficientes para los problemas que enfrento, y disfruto cada desafío que se presenta en mi camino.<br><br>Como CEO y fundador de Soft Fusion, he liderado más de 15 proyectos exitosos y he trabajado con un equipo increíble de más de 10 personas. Además, soy profesor universitario, dicto clase a más de 120 alumnos universitarios, lo que me ha permitido compartir mi conocimiento y aprender de la nueva generación de desarrolladores.<br><br>Estoy buscando unirme a un equipo de trabajo excepcional donde pueda continuar creciendo profesionalmente y contribuir con mis habilidades y entusiasmo. Mi objetivo es participar en muchos proyectos interesantes y seguir expandiendo mis conocimientos en el desarrollo de software.<br><br>Si buscas un programador joven, dinámico y con muchas ganas de aprender y aportar, ¡no dudes en contactarme!
+
+Este es mi Portfolio
+https://portfolio-benjaminorellana.netlify.app/
 
 
 ## 🌐 Socials:
@@ -19,6 +22,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=BenjaminOrellanaDev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Benjaa153&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
